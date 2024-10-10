@@ -1,2 +1,9 @@
-# 01-webinar-about-me
-repositorio de nuevo proyecto 
+# David Cortez
+hola a todos
+
+## Habilidades
+Comunicacion eficaz
+
+Negociacion
+
+
